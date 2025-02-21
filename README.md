@@ -1,3 +1,2 @@
 # monnav25spring
-This repository is for the owner's Computational Physics course and other potential use in spring, 2025.
-And this line is for test of github practice.
+This repository is for the owner's Computational Physics course and other potential usage in spring, 2025.
